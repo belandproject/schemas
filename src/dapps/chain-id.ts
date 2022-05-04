@@ -14,7 +14,7 @@ export enum ChainId {
   ETHEREUM_KOVAN = 42,
   MATIC_MAINNET = 137,
   MATIC_MUMBAI = 80001,
-  KAI_MAINNET = 27
+  KAI_MAINNET = 24
 }
 
 /**
